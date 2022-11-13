@@ -55,3 +55,11 @@ Read more below:
 | 8.     | [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization/)         |
 | 9.     | [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)             |
 | 10.    | [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone)           |
+
+## Corrections ?
+
+If you find any issues in these code examples, feel free to submit an Issue or Pull Request. I appreciate your input!
+
+## Questions ?
+
+Reach out to @yassine_rd_ on Twitter or feel free to contact contact yassine.rodani@gmail.com. :)
